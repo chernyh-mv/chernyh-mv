@@ -1,5 +1,5 @@
 ## Hello, I’m Marie 👋 
-*Tell me Chunk of goodness (joke)*
+*Call me Chunk of goodness (joke)*
 
 
 #### About me:
