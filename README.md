@@ -3,7 +3,7 @@
 
 
 #### About me:
-- I'm choosing a new way of life
+- I'm choosing a new way of life with Python
 - I’m currently learning Yandex.Practicum
 - I’m looking to collaborate on internship and junior position.
 
